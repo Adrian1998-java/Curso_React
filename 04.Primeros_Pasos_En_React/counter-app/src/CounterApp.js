@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 //Repositorio del enunciado de la actividad:
 // https://gist.github.com/Klerith/e1a731cc595c00a9794a709062eae757
 
-// Docs de Eventos/Lisrteners:
+// Docs de Eventos/Listeners:
 // https://es.reactjs.org/docs/events.html#mouse-events
 
 //Repositorio de GitHub
