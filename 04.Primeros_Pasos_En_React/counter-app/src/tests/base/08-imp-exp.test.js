@@ -32,7 +32,7 @@ describe('Prubeas en 08', () => {
         console.log(heroe);
      })
 
-     //Debe de retornar un arreglo/array con los heroes de DC owner toEqual al arreglo filtrado
+     //Debe de retornar un arreglo/array con los heroes de DC /owner toEqual al arreglo filtrado
 
      test('Debe de retornar un arreglo/array con los heroes de DC', () => { 
 
@@ -45,7 +45,7 @@ describe('Prubeas en 08', () => {
         
      })
 
-     //Debe de retornar un arreglo con los heroes de marvel length =2
+     //Debe de retornar un arreglo con los heroes de marvel /length =2
 
      test('Debe de retornar un arreglo con los heroes de marvel', () => { 
 

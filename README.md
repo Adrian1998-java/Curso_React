@@ -12,3 +12,8 @@
 -04. Primeros pasos en React 
 
 -05. Pruebas unitarias y de integración - Probando las secciones anteriores (En proceso... Video nº 56)
+
+## Recomendaciones:
+
+- "npm start" dentro de la carpeta para iniciar la aplicación.
+- "npm run test" para iniciar los tests
