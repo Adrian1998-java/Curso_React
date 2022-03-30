@@ -22,4 +22,4 @@
 
 ### Captura:
 
-https://github.com/Adrian1998-java/Curso_React/blob/3700138eeb66e9eae337d4afbb06aa105282e829/IMAGENES_TYPORA/001.png
+![](https://github.com/Adrian1998-java/Curso_React/blob/3700138eeb66e9eae337d4afbb06aa105282e829/IMAGENES_TYPORA/001.png)
