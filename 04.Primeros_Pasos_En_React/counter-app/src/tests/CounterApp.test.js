@@ -61,7 +61,7 @@ describe('Pruebas sobre CounterApp', () => {
 
         const ResetText = wrapper.find('h2').text();
 
-        expect( ResetText ).toBe('105');
+        expect( ResetText ).toBe('105 ');
 
     });
 

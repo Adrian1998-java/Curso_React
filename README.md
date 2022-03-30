@@ -13,12 +13,13 @@
 
 -05. Pruebas unitarias y de integración - Probando las secciones anteriores
 
--06. GifExpertApp - Aplicación (En proceso...)
+-06. GifExpertApp - Aplicación (En proceso... / Video nº 73)
 
 ## Recomendaciones:
 
 - "npm start" dentro de la carpeta para iniciar la aplicación.
 - "npm run test" para iniciar los tests
+- "npx create-react-app {nombre-de-app}" para crear un nuevo proyecto local donde poder hacer pruebas a tiempo real y producción.
 
 ### Captura:
 
