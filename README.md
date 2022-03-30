@@ -19,3 +19,7 @@
 
 - "npm start" dentro de la carpeta para iniciar la aplicación.
 - "npm run test" para iniciar los tests
+
+### Captura:
+
+https://github.com/Adrian1998-java/Curso_React/blob/3700138eeb66e9eae337d4afbb06aa105282e829/IMAGENES_TYPORA/001.png
