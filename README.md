@@ -11,7 +11,9 @@
 
 -04. Primeros pasos en React 
 
--05. Pruebas unitarias y de integración - Probando las secciones anteriores (En proceso... Video nº 56)
+-05. Pruebas unitarias y de integración - Probando las secciones anteriores
+
+-06. GifExpertApp - Aplicación (En proceso...)
 
 ## Recomendaciones:
 
