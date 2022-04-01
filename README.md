@@ -17,7 +17,7 @@
 
 -07. Generando el build de producción y despliegues en Github Pages
 
-08- Testing - Probando la aplicación de GifExpert
+08- Testing - Probando la aplicación de GifExpert (En proceso / video nº89 ~ 90)
 
 ## Recomendaciones:
 
@@ -40,3 +40,11 @@ https://animate.style
 ### NPM Package : 
 
 https://www.npmjs.com/package/http-server
+
+### Enzyme : 
+
+https://enzymejs.github.io/enzyme/
+
+### Enzyme to Json:
+
+https://www.npmjs.com/package/enzyme-to-json

@@ -13,3 +13,15 @@ export const GifGridItem = ( {title, url} ) => {
 }
 
 export default GifGridItem;
+
+
+/**
+ * 1. Enzyme
+ * 2. Enzyme to Json
+ * 3. Debe de mostrar el componente correctamente
+ *    *shallow
+ *     *wrapper 
+ *    *wrapper.toMatchSnapshot
+ * 
+ * 
+ */
