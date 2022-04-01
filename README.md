@@ -21,6 +21,12 @@
 - "npm run test" para iniciar los tests
 - "npx create-react-app {nombre-de-app}" para crear un nuevo proyecto local donde poder hacer pruebas a tiempo real y producción.
 
-### Captura:
+### Captura(s):
 
 ![](https://github.com/Adrian1998-java/Curso_React/blob/3700138eeb66e9eae337d4afbb06aa105282e829/IMAGENES_TYPORA/001.png)
+
+## Enlaces interesantes:
+
+### Animate.css : 
+
+https://animate.style
