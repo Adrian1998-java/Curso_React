@@ -13,13 +13,19 @@
 
 -05. Pruebas unitarias y de integración - Probando las secciones anteriores
 
--06. GifExpertApp - Aplicación (En proceso... / Video nº 73)
+-06. GifExpertApp - Aplicación 
+
+-07. Generando el build de producción y despliegues en Github Pages
+
+08- Testing - Probando la aplicación de GifExpert
 
 ## Recomendaciones:
 
 - "npm start" dentro de la carpeta para iniciar la aplicación.
 - "npm run test" para iniciar los tests
 - "npx create-react-app {nombre-de-app}" para crear un nuevo proyecto local donde poder hacer pruebas a tiempo real y producción.
+- "npm run build"en la carpeta de tu proyecto para crear un build de tu proyecto
+- Después de instalar el paquete NPM con el comando "sudo npm install --global http-server", teclear el comado "http-server -o" en la carpeta build del proyecto.
 
 ### Captura(s):
 
@@ -30,3 +36,7 @@
 ### Animate.css : 
 
 https://animate.style
+
+### NPM Package : 
+
+https://www.npmjs.com/package/http-server
