@@ -17,9 +17,9 @@
 
 -07. Generando el build de producción y despliegues en Github Pages
 
-08- Testing - Probando la aplicación de GifExpert 
+-08. Testing - Probando la aplicación de GifExpert 
 
-09- Profundizando Hooks - Generales (En Proceso...)
+-09. Profundizando Hooks - Generales (En Proceso...)
 
 ## Recomendaciones:
 
