@@ -17,7 +17,9 @@
 
 -07. Generando el build de producción y despliegues en Github Pages
 
-08- Testing - Probando la aplicación de GifExpert (En proceso / video nº89 ~ 90)
+08- Testing - Probando la aplicación de GifExpert 
+
+09- Profundizando Hooks - Generales (En Proceso...)
 
 ## Recomendaciones:
 
@@ -48,3 +50,32 @@ https://enzymejs.github.io/enzyme/
 ### Enzyme to Json:
 
 https://www.npmjs.com/package/enzyme-to-json
+
+### React-Hooks-Testing-Library:
+
+https://react-hooks-testing-library.com
+
+## Dependencias
+
+### Enzyme : ( https://github.com/wojtekmaj/enzyme-adapter-react-17 )
+
+import Enzyme from 'enzyme';
+
+import Adapter from '@wojtekmaj/enzyme-adapter-react-17';
+
+
+
+Enzyme.configure({ adapter: new Adapter() });
+
+### Enzyme to Json : ( https://www.npmjs.com/package/enzyme-to-json )
+
+import {createSerializer} from 'enzyme-to-json';
+
+
+
+expect.addSnapshotSerializer(createSerializer({mode: 'deep'}));
+
+
+
+### React-Hooks-Testing-Library: ( https://react-hooks-testing-library.com/installation )
+

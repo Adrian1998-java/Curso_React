@@ -6,7 +6,6 @@ export const AddCategory = ({setCategories}) => {
     const [Value, setValue] = useState('');
 
     const handleInputChange = ( e ) => {
-        console.log();
         setValue( e.target.value );
     }
 
@@ -30,7 +29,6 @@ export const AddCategory = ({setCategories}) => {
             onChange={handleInputChange}
         />
     </form>
-        
     </>
   )
 };
