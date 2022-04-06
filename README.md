@@ -19,7 +19,9 @@
 
 -08. Testing - Probando la aplicación de GifExpert 
 
--09. Profundizando Hooks - Generales (En Proceso... / Video 119)
+-09. Profundizando Hooks - Generales 
+
+-10. Profundizando Hooks - UseReducer (En proceso... / video 125)
 
 ## Recomendaciones:
 
