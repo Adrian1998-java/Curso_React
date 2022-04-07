@@ -21,7 +21,9 @@
 
 -09. Profundizando Hooks - Generales 
 
--10. Profundizando Hooks - UseReducer (En proceso... / video 125)
+-10. Profundizando Hooks - UseReducer
+
+-11. Profundizando Hooks - useContext (En Proceso... (?) )
 
 ## Recomendaciones:
 
@@ -56,6 +58,10 @@ https://www.npmjs.com/package/enzyme-to-json
 ### React-Hooks-Testing-Library:
 
 https://react-hooks-testing-library.com
+
+### React Docs (UseReducer):
+
+https://es.reactjs.org/docs/hooks-reference.html#usereducer
 
 ## Dependencias
 
